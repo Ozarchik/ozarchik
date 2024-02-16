@@ -1,6 +1,8 @@
 ### Hi there, I'm Ozar 👋
+</br>
 
 ![](https://komarev.com/ghpvc/?username=ozarchik)
+</br>
 
 - :triangular_flag_on_post:   	I am a software engineer at ITMO University
 - :desktop_computer:   The main technology stack I work with is C++, Qt, QML      
