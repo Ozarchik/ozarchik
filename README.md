@@ -1,7 +1,5 @@
-### Hi there, I'm Ozar 👋
-</br>
+### Hi there, I'm Ozar 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ozarchik)
 
-![](https://komarev.com/ghpvc/?username=ozarchik)
 </br>
 
 - :triangular_flag_on_post:   	I am a software engineer at ITMO University
